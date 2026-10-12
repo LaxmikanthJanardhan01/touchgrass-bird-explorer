@@ -1,0 +1,4 @@
+name: TouchGrass-BirdExplorer
+description: "Bird sound identification using BirdNET"
+ports:
+  - 8080

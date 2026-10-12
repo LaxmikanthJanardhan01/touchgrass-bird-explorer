@@ -1,0 +1,13 @@
+# ignore app cache folder
+.cache/
+__pycache__/
+*.py[cod]
+*.backup
+*.before-*
+*.prefrontend
+*.prejournal
+web_app_before_*.py
+bird_test.mp3.mp3
+.env
+.env.*
+!.env.example
